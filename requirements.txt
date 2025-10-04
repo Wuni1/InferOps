@@ -1,0 +1,17 @@
+# Web 框架和 API
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+
+# HTTP 客户端
+httpx>=0.25.0
+
+# 系统监控
+psutil>=5.9.0
+pynvml>=11.5.0
+
+# 配置管理
+python-decouple>=3.8
+
+# 文件处理 (用于静态文件服务)
+aiofiles>=23.0.0 
+python-multipart
